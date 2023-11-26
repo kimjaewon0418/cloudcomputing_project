@@ -31,7 +31,9 @@
     <img src="https://user-images.githubusercontent.com/94631526/144223531-7762eca4-0fec-4d62-b82e-1d01d34d3348.png" width=300 height=600>
     <img src="https://user-images.githubusercontent.com/94631526/144223528-3b444eed-b6dd-40d5-a7bc-e5a25a3f9246.png" width=300 height=120>\
     <img src="https://user-images.githubusercontent.com/94631526/144223527-6806d521-8095-47f9-a90b-a183ab3dffeb.png" width=300 height=600>
-    <img src="https://user-images.githubusercontent.com/94631526/144223545-a69c3667-4693-40b8-b21a-2862872040db.png" width=300 height=120>
+    <img src="https://user-images.githubusercontent.com/94631526/144223545-a69c3667-4693-40b8-b21a-2862872040db.png" width=300 height=120>  
+
+![image](https://github.com/kimjaewon0418/cloudcomputing_project/assets/71175335/9add551c-7e66-44d0-8a86-e9c451e0c24b)
 
 ---
 #### F.	개발 결과물의 필요성 및 활용방안
